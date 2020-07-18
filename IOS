@@ -145,9 +145,5 @@
           "Link8" : "",
           "AdOne" : "no",
           "AdTwo" : "yes"
-      },
-  {
-          "Date" : "11/07/2020",
-            "Dis1" : "Set Blast",
-          "Link1" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=ev_sb:30m_20200711",
-            "Dis2" : 
+      }
+     ]
