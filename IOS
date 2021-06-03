@@ -38,8 +38,8 @@
           "Link7" : "",
             "Dis8" : "",
           "Link8" : "",
-          "AdOne" : "yesnew",
-          "AdTwo" : "yesnew"
+          "AdOne" : "yes",
+          "AdTwo" : "yes"
       },
 {
           "Date" : "31/05/2021",
@@ -59,8 +59,8 @@
           "Link7" : "",
             "Dis8" : "",
           "Link8" : "",
-          "AdOne" : "yesnew",
-          "AdTwo" : "yesnew"
+          "AdOne" : "yes",
+          "AdTwo" : "yes"
       },
 {
           "Date" : "30/05/2021",
@@ -227,7 +227,7 @@
           "Link7" : "",
             "Dis8" : "",
           "Link8" : "",
-          "AdOne" : "yesnew",
-          "AdTwo" : "yesnew"
+          "AdOne" : "unity",
+          "AdTwo" : "unity"
       }
  ]
