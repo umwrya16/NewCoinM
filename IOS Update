@@ -5,10 +5,10 @@
           "Link1" : "https://rewards.coinmaster.com/rewards/rewards.html?c=pe_CHATBtlJXnZ_20231029",
             "Dis2" : "25 Spins #2",
           "Link2" : "https://rewards.coinmaster.com/rewards/rewards.html?c=pe_INSMwVLtO_20231028",
-            "Dis3" : "",
-          "Link3" : "",
-            "Dis4" : "",
-          "Link4" : "",
+            "Dis3" : "25 Spins #3",
+          "Link3" : "https://rewards.coinmaster.com/rewards/rewards.html?c=pe_FCBxMwwXu_20231029",
+            "Dis4" : "25 Spins #4",
+          "Link4" : "https://rewards.coinmaster.com/rewards/rewards.html?c=pe_EMAILgkxdhJ_20231025",
             "Dis5" : "",
           "Link5" : "",
             "Dis6" : "",
@@ -18,7 +18,7 @@
             "Dis8" : "",
           "Link8" : "",
           "AdOne" : "yes",
-          "AdTwo" : "yes"
+          "AdTwo" : "unity"
       },
 {
           "Date" : "28/10/2023",
